@@ -12,6 +12,6 @@
 
 ## Я в :
 
-<a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5">
+<a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
