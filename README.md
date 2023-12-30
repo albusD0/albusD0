@@ -36,6 +36,10 @@
 - **создавал таблицу принятия решений**
   
   [Таблица принятия решений](https://1drv.ms/x/s!AmASr-HZ68UMgyrITWn3tpOGqSvz?e=JdAUwO)
+
+- **тестировал сайт питомника и заносил баги в Jira**
+  
+  [Сайт питомника](https://guru.qahacking.ru/) / Экспортировал баги из Jira в файл Word, можно просмотреть здесь: [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMgz56kvuo8ZAfgwMg?e=kumaGo)
     
 
 ## Я в :
