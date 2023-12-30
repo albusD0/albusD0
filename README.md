@@ -24,6 +24,7 @@
 - #### Языки программирования, которые немного знаю и хотел бы подучить парочку из них получше, чтобы впоследствии автоматизировать тесты:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## Курс и задания
+### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил ![сертификат](https://1drv.ms/i/s!AmASr-HZ68UMg2p0sH2XLGkpdSBq?e=QheOl1) [оригинал](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) и в ходе которого:
 
 - **анализировал требования**
   
