@@ -9,7 +9,9 @@
 
 ##  :wrench::hammer::muscle: Инструменты и навыки, которыми я владею:
 ### Базовые (для тестировщика):
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ### Дополнительные:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ## Курс и задания
 
 - **анализировал требования**
