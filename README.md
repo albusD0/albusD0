@@ -32,6 +32,10 @@
 
   [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMg2iB_wNFKKhijqmT?e=gfEmWb)
 
+- **определял классы эквивалентности и проверял граничный значения**
+  [Задание](https://qa-ep-bva-practice-assignment.vercel.app/) [Мое решение](https://1drv.ms/x/s!AmASr-HZ68UMgyckneGiFv5Vckbu?e=RWPJfV)
+    
+
 ## Я в :
 
 <a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
