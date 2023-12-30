@@ -32,6 +32,10 @@
 - **определял классы эквивалентности и проверял граничные значения**
   
   [Задание](https://qa-ep-bva-practice-assignment.vercel.app/) / [Мое решение](https://1drv.ms/x/s!AmASr-HZ68UMgyckneGiFv5Vckbu?e=RWPJfV)
+
+- **создавал таблицу принятия решений**
+  
+  [Таблица принятия решений](https://1drv.ms/x/s!AmASr-HZ68UMgyrITWn3tpOGqSvz?e=JdAUwO)
     
 
 ## Я в :
