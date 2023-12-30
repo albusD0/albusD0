@@ -31,7 +31,7 @@
 
 - **определял классы эквивалентности и проверял граничный значения**
   
-  [Задание](https://qa-ep-bva-practice-assignment.vercel.app/) [Мое решение](https://1drv.ms/x/s!AmASr-HZ68UMgyckneGiFv5Vckbu?e=RWPJfV)
+  [Задание](https://qa-ep-bva-practice-assignment.vercel.app/) / [Мое решение](https://1drv.ms/x/s!AmASr-HZ68UMgyckneGiFv5Vckbu?e=RWPJfV)
     
 
 ## Я в :
