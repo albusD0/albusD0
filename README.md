@@ -9,7 +9,10 @@
 
 ##  :wrench::hammer::muscle: Инструменты и навыки, которыми я владею:
 ### Базовые (для тестировщика):
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Azure Devops](https://camo.githubusercontent.com/55de1c2c567f019f7c18b60ae94c655be9405c8156a720d012cd76c8d2bee17c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417a7572652b4465764f707326636f6c6f723d303037384437266c6f676f3d417a7572652b4465764f7073266c6f676f436f6c6f723d464646464646266c6162656c3d)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Charles Proxy](https://camo.githubusercontent.com/396820e034d6fb664517a7f551f99fbf0f433359c5c0dfae7f2830354f5cffa6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436861726c657326636f6c6f723d323232323232266c6f676f3d436861726c6573266c6f676f436f6c6f723d463346354635266c6162656c3d)
+
 ### Дополнительные:
 #### Очень продвинутый пользователь ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white), на уровне близком к начальному системному администрированию
 
