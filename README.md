@@ -57,7 +57,7 @@
 
   Небольшая ремарка: насчет метода uploadImage - если запускать его отдельно, то все срабатывает, код статуса возвращается правильный. При прогоне в коллекции (Run collection) выдает 415 - неподдерживаемый формат медиа, сервер отказывается его принимать. Остальное все верно выдает, и по одельности, и в прогоне.
 
-  **Enviroment**, в моем случае - **PetStore**, где я использовал **value=https://petstore.swagger.io/v2** для переменной **url**
+  Периодически отваливается **Enviroment**, в моем случае - **PetStore**, где я использовал **value=https://petstore.swagger.io/v2** для переменной **url**
 
 - **учился делать запросы SQL**
   [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Мои решения в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) / [Текстовый файл с моими запросами здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
