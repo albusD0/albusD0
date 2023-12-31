@@ -64,7 +64,7 @@
 
 - **подменял данные в Charles Proxy и Fiddler**
 - 
-[Задание](http://task.test.ivi.ru/login) / [Итог]()
+[Задание](http://task.test.ivi.ru/login) / [Итог](https://github.com/albusD0/albusD0/blob/main/media/result.png)
 
   ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
     
