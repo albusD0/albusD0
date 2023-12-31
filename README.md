@@ -17,6 +17,8 @@
 #### очень продвинутый, на  близком к системному администрированию уровне, пользователь
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
+### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
+
 #### также работал с
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -50,7 +52,7 @@
   [Сайт питомника](https://guru.qahacking.ru/) / Экспортировал баги из Jira в файл Word, можно просмотреть здесь: [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMgz56kvuo8ZAfgwMg?e=kumaGo)
 
 - **учился делать запросы SQL**
-  [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Ответ в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) [Ответ здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
+  [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Мои решения в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) / [Текстовый файл с моими запросами здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
 
   ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
     
@@ -61,7 +63,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-## Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 
 
 
