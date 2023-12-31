@@ -1,0 +1,13 @@
+SELECT name, surname FROM Staff WHERE Age > 24 AND City='Moscow';
+SELECT name, surname FROM Staff ORDER BY Age;
+SELECT Age FROM Staff WHERE Position_ID = 1;
+SELECT Name, Surname FROM Staff WHERE Position_ID = 3 LIMIT 20;
+SELECT Computers.Computer_Name FROM Computers JOIN Positions ON Computers.ID = Positions.Computer_ID JOIN Staff ON Staff.Position_ID = Positions.ID WHERE Name='anastasia' AND Surname='morozova';
+SELECT COUNT(ID) FROM Staff WHERE City='Moscow';
+SELECT Staff.Name, Positions.Salary FROM Staff JOIN Positions ON Positions.ID = Staff.Position_ID;
+SELECT SUM(Positions.Salary) FROM Positions JOIN Staff ON Staff.Position_ID = Positions.ID WHERE City = 'Moscow';
+SELECT Staff.City, SUM(Positions.Salary) FROM Positions JOIN Staff ON Staff.Position_ID = Positions.ID GROUP BY City;
+SELECT DISTINCT City FROM Staff;
+SELECT DISTINCT City FROM Staff WHERE City LIKE '%k%';
+SELECT Position_Name, Salary FROM Positions WHERE Salary BETWEEN 1500 AND 2200; 
+SELECT Staff.Name, Staff.Surname, Positions.Position_Name FROM Staff RIGHT JOIN Positions ON Staff.Position_ID = Positions.ID;
