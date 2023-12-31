@@ -17,8 +17,6 @@
 #### очень продвинутый, на  близком к системному администрированию уровне, пользователь
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
-
 #### также работал с
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -32,6 +30,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 - #### Языки программирования, которые немного знаю и хотел бы подучить парочку из них получше, чтобы впоследствии автоматизировать тесты:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
+
 ## Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) и в ходе которого:
 
