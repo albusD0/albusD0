@@ -49,6 +49,9 @@
   
   [Сайт питомника](https://guru.qahacking.ru/) / Экспортировал баги из Jira в файл Word, можно просмотреть здесь: [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMgz56kvuo8ZAfgwMg?e=kumaGo)
 
+- **учился делать запросы SQL**
+  [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Ответ в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) [Ответ здесь]()
+
   ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
     
 
