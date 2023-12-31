@@ -52,6 +52,9 @@
   
   [Сайт питомника](https://guru.qahacking.ru/) / Экспортировал баги из Jira в файл Word, можно просмотреть здесь: [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMgz56kvuo8ZAfgwMg?e=kumaGo)
 
+  - **создавал коллекции запросов в Postman и запускал их**
+    [Задание](https://petstore.swagger.io/) / [Решение](https://www.postman.com/supply-physicist-60388487/workspace/public-4-stepik/collection/30553506-9f326cfe-90c1-4774-95ba-402c6beee4ea?action=share&creator=30553506&active-environment=30553506-201da409-157c-4ff9-8990-ecfae5634bfd)
+
 - **учился делать запросы SQL**
   [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Мои решения в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) / [Текстовый файл с моими запросами здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
 
