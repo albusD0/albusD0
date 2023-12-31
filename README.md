@@ -62,6 +62,10 @@
 - **учился делать запросы SQL**
   [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Мои решения в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) / [Текстовый файл с моими запросами здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
 
+- **подменял данные в Charles Proxy и Fiddler**
+- 
+[Задание](http://task.test.ivi.ru/login) / [Итог]()
+
   ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
     
 
