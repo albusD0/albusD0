@@ -76,15 +76,12 @@
 
   ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
     
-
 ## Я в :
 
 <a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-
-
+</a>
+<a href="mailto:alvrath@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
 
 ## Мои скрипты:
 
