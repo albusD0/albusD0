@@ -45,7 +45,7 @@
 
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 ---
-## Курс и задания
+## :mortar_board: Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
 
 <a href="https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888" target="_blank"><img src="https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png" width="480" align="right" /></a>
@@ -106,7 +106,7 @@
 
 ---
 
-## Мои скрипты:
+## :floppy_disk: Мои скрипты:
 
 [**Python**](https://github.com/albusD0/my_python_scripts)
     - скриптов как бы много, но в действительности их можно собрать в две группы - одна создана для замены символов (перебором из массива), другая переносит файлы и папки из одного каталога в другой при загрузке ОС, после чего создает лог выполненной работы в изначальной директории, откуда совершался перенос. Эти скрипты полностью написаны мной.
