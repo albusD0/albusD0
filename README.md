@@ -92,11 +92,11 @@
 
 ## Мои скрипты:
 
-**Python**
+[**Python**](https://github.com/albusD0/my_python_scripts)
 
-**PHP / JavaScript** (для сайта на Wordpress)
+[**PHP / JavaScript** (для сайта на Wordpress)](https://github.com/albusD0/wordpress_scripts_modified_by_me_4_dajuspravku)
 
-Для **LibreOffice (макросы)**
+[Для **LibreOffice (макросы)**](https://github.com/albusD0/my_vbs_scripts_4_libreoffice)
 
 ---
 ## И на закуску:
