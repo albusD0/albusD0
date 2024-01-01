@@ -85,6 +85,15 @@
 - **подменял данные в Charles Proxy и Fiddler**
 
   [Задание](http://task.test.ivi.ru/login) / [Итог](https://github.com/albusD0/albusD0/blob/main/media/result.png)
+
+- **постигал азы:**
+    -  мобильного тестирования и **Android Studio**
+    -  Git / GitHub
+    -  Bash
+    -  **создавал** учебные тест-кейсы в **TMS**
+    -  и выполнял много других заданий в рамках курса
+
+  
 ---
       
 ## Я в :
