@@ -38,7 +38,7 @@
 
 - **[тестировал карандаш]**
 
-  [Скриншот задания](https://github.com/albusD0/albusD0/blob/main/media/testing_pencil.png) / [Текстовый вариант]()
+  [Скриншот задания](https://github.com/albusD0/albusD0/blob/main/media/testing_pencil.png) / [Текстовый вариант](https://github.com/albusD0/albusD0/edit/main/texts/test_a_pencil.txt)
 
   
 
