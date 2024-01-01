@@ -38,7 +38,11 @@
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 
 ## Курс и задания
-### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) и в ходе которого:
+### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
+
+<a href="https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888" target="_blank"><img src="https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png" width="480" align="right" /></a>
+
+### и в ходе которого:
 
 - **тестировал карандаш** :smirk:
 
@@ -74,8 +78,7 @@
 
   [Задание](http://task.test.ivi.ru/login) / [Итог](https://github.com/albusD0/albusD0/blob/main/media/result.png)
 
-  ![сертификат](https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png)
-    
+      
 ## Я в :
 
 <a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
