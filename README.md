@@ -13,6 +13,9 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Charles Proxy](https://camo.githubusercontent.com/396820e034d6fb664517a7f551f99fbf0f433359c5c0dfae7f2830354f5cffa6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436861726c657326636f6c6f723d323232323232266c6f676f3d436861726c6573266c6f676f436f6c6f723d463346354635266c6162656c3d)
 
+- знание типов (видов) тестирования и техник тест-дизайна
+- работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, Youtrack и др.)
+
 ### Дополнительные:
 #### очень продвинутый, на  близком к системному администрированию уровне, пользователь
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
