@@ -36,7 +36,7 @@
 ## Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) и в ходе которого:
 
-- **[тестировал карандаш]**
+- **тестировал карандаш**
 
   [Скриншот задания](https://github.com/albusD0/albusD0/blob/main/media/testing_pencil.png) / [Текстовый вариант](https://github.com/albusD0/albusD0/blob/main/texts/test_a_pencil.txt)
   
