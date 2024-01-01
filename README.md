@@ -7,6 +7,8 @@
 
 Люблю исследовать программное обеспечение, изучать новое, и не только связанное с компьютерами, IT - что и привело меня к пониманию, что лучше всего мои навыки и личные качества могут реализоваться в тестировании. 
 
+---
+
 ##  :wrench::hammer::muscle: Инструменты и навыки, которыми я владею:
 ### Базовые (для тестировщика):
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Azure Devops](https://camo.githubusercontent.com/55de1c2c567f019f7c18b60ae94c655be9405c8156a720d012cd76c8d2bee17c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417a7572652b4465764f707326636f6c6f723d303037384437266c6f676f3d417a7572652b4465764f7073266c6f676f436f6c6f723d464646464646266c6162656c3d) ![DevTools](https://img.shields.io/badge/DEVTOOLS---?style=for-the-badge&logo=Google%20Chrome&logoColor=white&labelColor=blue&color=blue)
@@ -36,7 +38,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
-
+---
 ## Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
 
@@ -77,7 +79,7 @@
 - **подменял данные в Charles Proxy и Fiddler**
 
   [Задание](http://task.test.ivi.ru/login) / [Итог](https://github.com/albusD0/albusD0/blob/main/media/result.png)
-
+---
       
 ## Я в :
 
@@ -86,6 +88,8 @@
 </a>
 <a href="mailto:alvrath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 
-## Мои скрипты:
+---
 
+## Мои скрипты:
+---
 ## И на закуску:
