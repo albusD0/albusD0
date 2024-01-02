@@ -23,7 +23,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 - знание типов (видов) тестирования и техник тест-дизайна
-- работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, Youtrack и др.)
+- работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, TestLink, Youtrack и др.)
+- усидчивость, способность заниматься монотонной деятельностью
+- неконфликтность
 
 ### Дополнительные:
 #### очень продвинутый, на  близком к системному администрированию уровне, пользователь
@@ -35,7 +37,7 @@
 
 #### создавал сайты с помощью
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 #### умею работать с
 
@@ -46,6 +48,7 @@
 ---
 
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
+
 ---
 ## :mortar_board: Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
@@ -108,6 +111,12 @@
 [Тестирование ПО. Профессиональный курс подготовки QA](https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo)
   
 ---
+
+### В планах
+- освоить автоматизацию
+- иные виды тестирования (нефункциональные)
+
+---
       
 ## :mailbox_with_mail: Контакты
 
@@ -135,7 +144,8 @@
 
 Большую работу я проделал над сайтом вопросов и ответов "Даю справку!", но хостинг со временем стал обременительным, а проделанной работы было жалко, поэтому я перенес все на Blogspot, и теперь "Даю справку!" можно найти по адресу: https://daju-spravku.blogspot.com/
 
-Это к вопросу о моем знании веба, HTML, CSS и DevTools.
+Это к вопросу о моем знании веба, HTML, CSS и DevTools. Имею также базовые представления о SEO.
 
 ---
+
 ## И на закуску:
