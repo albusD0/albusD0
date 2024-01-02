@@ -152,5 +152,5 @@
 ## P.S.
 Если все вышеупомянутое вас не заинтересовало, могу предложить погрузиться в киберпанк и полистать (или даже приобрести) [мою книгу](https://www.litres.ru/book/fred-skardi/5l624-69775309/):
 
-<a href="https://www.litres.ru/book/fred-skardi/5l624-69775309/"><img src="https://cv0.litres.ru/pub/c/cover_330/69775309.webp" /></a>
+<a href="https://www.litres.ru/book/fred-skardi/5l624-69775309/"><img src="https://github.com/albusD0/albusD0/blob/main/media/fred-scardi_yona.png" height="280" /></a>
 
