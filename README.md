@@ -95,6 +95,17 @@
     -  **создавал** учебные тест-кейсы в **TMS**
     -  и выполнял много других заданий в рамках курса
 
+### Помимо курса обращался (и обращаюсь) к таким ресурсам, как
+
+[tестирование dot com](https://knigki.net/kompjutery/13470-testirovanie-dot-kom.html#1)
+
+[Тестирование программного обеспечения. Базовый курс](https://svyatoslav.biz/software_testing_book/)
+
+[Testbase.ru](http://testbase.ru)
+
+[Большой учебник по тестированию](https://testengineer.ru/bolshoj-uchebnik-po-testirovaniyu/)
+
+[Тестирование ПО. Профессиональный курс подготовки QA](https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo)
   
 ---
       
