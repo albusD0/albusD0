@@ -31,7 +31,7 @@
 #### очень продвинутый, на  близком к системному администрированию уровне, пользователь
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-#### также работал (устанавливал параллельно Windows) c
+#### также работал с (устанавливал параллельно Windows)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -140,7 +140,7 @@
 ---
 
 ## :newspaper: 
-Выше я уже упомянул пару раз, что создавал сайты. Из созданных мной ресурсов по-прежнему существует только сайт газеты, в которой я работаю, по адресу: https://tan-barda.ru. Ее шаблон видоизменен посредством CSS (и без DevTools в этом, конечно, никуда).
+Выше я уже упомянул пару раз, что создавал сайты. Из созданных мной ресурсов по-прежнему существует только сайт газеты, в которой я работаю, по адресу: https://tan-barda.ru. Его шаблон видоизменен посредством CSS (и без DevTools в этом, конечно, никуда).
 
 Большую работу я проделал над сайтом вопросов и ответов "Даю справку!", но хостинг со временем стал обременительным, а проделанной работы было жалко, поэтому я перенес все на Blogspot, и теперь "Даю справку!" можно найти по адресу: https://daju-spravku.blogspot.com/
 
