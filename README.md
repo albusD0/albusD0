@@ -12,42 +12,29 @@
 
 ---
 
-##  :wrench::hammer::muscle: Инструменты и навыки, которыми я владею:
-### Базовые (для тестировщика):
+##  :muscle::wrench::hammer: Навыки / инструменты, которыми владею:
+### Важные для тестировщика:
+- знание типов (видов) тестирования и техник тест-дизайна
+- работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, TestLink, Youtrack и др.)
+- поиск и фиксация багов
+- усидчивость, способность заниматься монотонной деятельностью
+- высокий уровень (само)обучаемости
+- умение самостоятельно искать информацию
+- исследовательский навык ПО
+- способен приносить пользу команде
+- неконфликтность
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Azure Devops](https://camo.githubusercontent.com/55de1c2c567f019f7c18b60ae94c655be9405c8156a720d012cd76c8d2bee17c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417a7572652b4465764f707326636f6c6f723d303037384437266c6f676f3d417a7572652b4465764f7073266c6f676f436f6c6f723d464646464646266c6162656c3d) ![DevTools](https://img.shields.io/badge/DEVTOOLS---?style=for-the-badge&logo=Google%20Chrome&logoColor=white&labelColor=blue&color=blue)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Charles Proxy](https://camo.githubusercontent.com/396820e034d6fb664517a7f551f99fbf0f433359c5c0dfae7f2830354f5cffa6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436861726c657326636f6c6f723d323232323232266c6f676f3d436861726c6573266c6f676f436f6c6f723d463346354635266c6162656c3d)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-- знание типов (видов) тестирования и техник тест-дизайна
-- работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, TestLink, Youtrack и др.)
-- усидчивость, способность заниматься монотонной деятельностью
-- неконфликтность
-
-### Дополнительные:
-#### очень продвинутый, на  близком к системному администрированию уровне, пользователь
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-
-#### также работал с (устанавливал параллельно Windows)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### создавал сайты с помощью
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <img src="https://avatars.githubusercontent.com/u/1351977?s=280&v=4" width="60 %" /> 
-
-#### умею работать с
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-- #### Языки программирования, которые немного знаю и хотел бы подучить парочку из них получше, чтобы впоследствии автоматизировать тесты:
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 
 ---
+
 ## :mortar_board: Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
 
@@ -112,11 +99,35 @@
 
 ### В планах
 - освоить автоматизацию
-- иные виды тестирования (нефункциональные)
+- иные виды тестирования (производительности, например)
 
 ---
-      
-## :mailbox_with_mail: Контакты
+### Другие скиллы, зачастую не менее нужные:
+#### очень продвинутый на  близком к системному администрированию уровне, пользователь
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+
+#### также работал с (устанавливал параллельно Windows)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+#### Имею представление о
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### создавал сайты с помощью
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <img src="https://avatars.githubusercontent.com/u/1351977?s=280&v=4" width="60 %" /> 
+
+#### умею работать с
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+- #### Языки программирования, которые немного знаю и хотел бы подучить парочку из них получше, чтобы впоследствии автоматизировать тесты:
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### :mailbox_with_mail: Контакты
 
 <a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
