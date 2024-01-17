@@ -73,7 +73,7 @@
 
 - **подменял данные в Charles Proxy и Fiddler**
 
-  [Задание](http://task.test.ivi.ru/login) / [Итог](https://github.com/albusD0/albusD0/blob/main/media/result.png)
+  [Задание](http://task.test.ivi.ru/login) / [Итог](https://1drv.ms/v/s!AmASr-HZ68UMhAIoh7Rt95hEstG0?e=85y7Ob)
 
 - **постигал азы:**
     -  мобильного тестирования и **Android Studio**
