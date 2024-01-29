@@ -1,10 +1,6 @@
 ## Привет, меня зовут Альфред! :wave:
-
 #### Люблю исследовать программное обеспечение, изучать новое, и не только связанное с компьютерами, IT
-
-
 ---
-
 ##  :muscle::wrench::hammer: Навыки / инструменты, которыми владею:
 - знание типов (видов) тестирования и техник тест-дизайна
 - работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, TestLink, Youtrack и др.)
@@ -22,15 +18,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
-
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
-
 ---
-##### :mailbox_with_mail: Контакты
-<a href="https://www.linkedin.com/in/alfred-sharafutdinov-8929032a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>  <a href="mailto:alvrath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-
 ## :mortar_board: Курс и задания
 ### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
 
