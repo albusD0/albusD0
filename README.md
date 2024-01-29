@@ -1,7 +1,7 @@
 ## Привет, меня зовут Альфред! :wave:
-#### Люблю исследовать программное обеспечение, изучать новое, и не только связанное с компьютерами, IT
+#### :computer: Люблю исследовать программное обеспечение, изучать новое, и не только связанное с компьютерами, IT
 ---
-##  :muscle::wrench::hammer: Навыки / инструменты, которыми владею:
+###  :hammer::muscle: Навыки / инструменты, которыми владею:
 - знание типов (видов) тестирования и техник тест-дизайна
 - работа с тестовыми артефактами (чек-листы, тест-кейсы, тест-план) и системами **TMS** (QASE, TestIt, TestLink, Youtrack и др.)
 - поиск и фиксация багов
@@ -20,41 +20,40 @@
 ---
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 ---
-## :mortar_board: Курс и задания
-### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
-
+### :mortar_board: Курс и задания
+#### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [сертификат](https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888) 
 <a href="https://v2.coreapp.ai/certificate/pdf/6581bcc06df0ad82bf640888" target="_blank"><img src="https://github.com/albusD0/albusD0/blob/main/media/6581bcc06df0ad82bf640888_001.png" width="480" align="right" /></a>
-
-### и в ходе которого:
-
+#### и в ходе которого:
 - **тестировал карандаш** :smirk:
-
+  
   [Скриншот задания](https://github.com/albusD0/albusD0/blob/main/media/testing_pencil.png) / [Текстовый вариант](https://github.com/albusD0/albusD0/blob/main/texts/test_a_pencil.txt)
   
 - **анализировал требования**
   
   [ТЗ](https://github.com/Vladislav-Mobile/Tasks/blob/main/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20-%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BA%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%20_%D0%9A%D0%BE%D0%B2%D0%BE%D1%80%D0%B3%D0%BA%D0%B8%D0%BD%D0%B3%20Life_.pdf) [Макет](https://www.figma.com/file/xAk3bKNwyV8wcTQCXvofjP/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.-%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F?type=design&node-id=0-1&mode=design) / [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMg2iB_wNFKKhijqmT?e=gfEmWb)
-
-- **определял классы эквивалентности и проверял граничные значения**
   
+- **определял классы эквивалентности и проверял граничные значения**  
+
   [Задание](https://qa-ep-bva-practice-assignment.vercel.app/) / [Мое решение](https://1drv.ms/x/s!AmASr-HZ68UMgyckneGiFv5Vckbu?e=RWPJfV)
-
+  
 - **создавал таблицу принятия решений**
-  
+
   [Таблица принятия решений](https://1drv.ms/x/s!AmASr-HZ68UMgyrITWn3tpOGqSvz?e=JdAUwO)
-
-- **тестировал сайт питомника и заносил баги в Jira**
   
+- **тестировал сайт питомника и заносил баги в Jira**
+
   [Сайт питомника](https://guru.qahacking.ru/) / Экспортировал баги из Jira в файл Word, можно просмотреть здесь: [Мой ответ](https://1drv.ms/w/s!AmASr-HZ68UMgz56kvuo8ZAfgwMg?e=kumaGo)
-
+  
 - **создавал коллекции запросов в Postman и запускал их**
+  
     [Задание](https://petstore.swagger.io/) / [Решение](https://www.postman.com/supply-physicist-60388487/workspace/public-4-stepik/collection/30553506-9f326cfe-90c1-4774-95ba-402c6beee4ea?action=share&creator=30553506&active-environment=30553506-201da409-157c-4ff9-8990-ecfae5634bfd)
-
+  
   Небольшая ремарка: насчет метода uploadImage - если запускать его отдельно, то все срабатывает, код статуса возвращается правильный. При прогоне в коллекции (Run collection) выдает 415 - неподдерживаемый формат медиа, сервер отказывается его принимать. Остальное все верно выдает, и по отдельности, и в прогоне.
 
   Периодически отваливается **Enviroment**, в моем случае - **PetStore**, где я использовал **value=https://petstore.swagger.io/v2** для переменной **url**
 
 - **учился делать запросы SQL**
+  
   [Задание](https://qastudio.notion.site/SQL-1459cf7d33c64a0a872e80459d3c9aec) / [Мои решения в рамках тренажера](https://metabase.qastudio-monitor.com/collection/22-shrajbiku) / [Текстовый файл с моими запросами здесь, на GitHub](https://github.com/albusD0/albusD0/blob/main/texts/sql_queries.txt)
 
 - **подменял данные в Charles Proxy и Fiddler**
@@ -68,7 +67,7 @@
     -  **создавал** учебные тест-кейсы в **TMS**
     -  и выполнял много иных заданий в рамках курса
 
-### Помимо курса обращался (и обращаюсь) к таким ресурсам, как
+#### Помимо курса обращался (и обращаюсь) к таким ресурсам, как
 
 [tестирование dot com](https://knigki.net/kompjutery/13470-testirovanie-dot-kom.html#1)
 
@@ -82,21 +81,19 @@
   
 ---
 
-### В планах
+#### В планах
 - [освоить автоматизацию](https://stepik.org/course/575/syllabus)
 - иные виды тестирования (производительности, например)
 
 ---
 ### Другие скиллы, зачастую не менее нужные и важные:
-#### Очень продвинутый, на  близком к системному администрированию уровне, пользователь
+#### Продвинутый пользователь
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 #### Также работал с (устанавливал параллельно Windows)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 #### Имею представление о
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Создавал сайты с помощью
@@ -105,7 +102,6 @@
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <img src="https://avatars.githubusercontent.com/u/1351977?s=280&v=4" width="60 %" /> 
 
 #### Умею работать с
-
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 #### Языки программирования, которые немного знаю и хотел бы подучить получше, чтобы впоследствии автоматизировать тесты:
@@ -113,7 +109,7 @@
 
 ---
 
-## :floppy_disk: Мои скрипты:
+### :floppy_disk: Мои скрипты:
 
 [**Python**](https://github.com/albusD0/my_python_scripts)
     - скриптов как бы много, но в действительности их можно собрать в две группы - одна создана для замены символов (перебором из массива), другая переносит файлы и папки из одного каталога в другой при загрузке ОС, после чего создает лог выполненной работы в изначальной директории, откуда совершался перенос. Эти скрипты полностью написаны мной.
@@ -126,7 +122,7 @@
 
 ---
 
-## :newspaper: 
+### :newspaper: 
 Выше я уже упомянул пару раз, что создавал сайты. Из созданных мной ресурсов по-прежнему существует только сайт газеты, в которой я работаю, по адресу: https://tan-barda.ru. Его шаблон видоизменен посредством CSS (и без DevTools в этом, конечно, никуда).
 
 Большую работу я проделал над сайтом вопросов и ответов "Даю справку!", но хостинг со временем стал обременительным, а проделанной работы было жалко, поэтому я перенес все на Blogspot, и теперь "Даю справку!" можно найти по адресу: https://daju-spravku.blogspot.com/
