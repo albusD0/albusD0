@@ -21,7 +21,7 @@
 ### Мой уровень английского: [The official EF SET Certificate™](https://www.efset.org/cert/rYuCgq)
 ---
 ### :mortar_board: Курс и задания
-#### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил [!сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf) 
+#### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826), по итогам которого получил ![сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf) 
 <a href="https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf" target="_blank"><img src="https://github.com/albusD0/albusD0/blob/main/media/stepik-certificate-171826-fe65650_001.png?raw=true" width="512" align="right" /></a>
 #### и в ходе которого:
 - **тестировал карандаш** :smirk:
