@@ -77,6 +77,8 @@
 
 [Большой учебник по тестированию](https://testengineer.ru/bolshoj-uchebnik-po-testirovaniyu/)
 
+[Software-Testing.ru](https://software-testing.ru/)
+
 [Тестирование ПО. Профессиональный курс подготовки QA](https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo)
   
 ---
