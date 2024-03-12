@@ -69,18 +69,20 @@
 
 #### Помимо курса обращался (и обращаюсь) к таким ресурсам, как
 
+[Большой учебник по тестированию](https://testengineer.ru/bolshoj-uchebnik-po-testirovaniyu/)
+
+[QA Bible](https://vladislaveremeev.gitbook.io/qa_bible/)
+
+[Software-Testing.ru](https://software-testing.ru/)
+
+[Testbase.ru](http://testbase.ru)
+
+[Тестирование ПО. Профессиональный курс подготовки QA](https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo)
+
 [tестирование dot com](https://knigki.net/kompjutery/13470-testirovanie-dot-kom.html#1)
 
 [Тестирование программного обеспечения. Базовый курс](https://svyatoslav.biz/software_testing_book/)
 
-[Testbase.ru](http://testbase.ru)
-
-[Большой учебник по тестированию](https://testengineer.ru/bolshoj-uchebnik-po-testirovaniyu/)
-
-[Software-Testing.ru](https://software-testing.ru/)
-
-[Тестирование ПО. Профессиональный курс подготовки QA](https://www.youtube.com/playlist?list=PLZqgWWF4O-zg03RGSZ2GpHLE3BmO8bjKo)
-  
 ---
 
 #### В планах
