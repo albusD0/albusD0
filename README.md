@@ -1,20 +1,22 @@
 #### :computer: Нравится Python, сфера IT и все с ними связанное
 ---
-### Знаю: 
+### ЗНАЮ 
 
-### Изучаю:
+#### Прошел курсы:
 
-#### Прошел курс [Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md), по итогам которого получил [сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf) 
+[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md), по итогам которого получил [сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf) 
+[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model)
 
----
+### ИЗУЧАЮ:
 
-#### Продвинутый пользователь ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-#### Имею представление о: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - продвинутый пользователь
 
-#### Создавал сайты с помощью:    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)    ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)    ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)    ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+#### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) - имею представление
 
-#### Умею работать с    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)    ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+#### ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)    ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)    ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)    ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) - создавал сайты с их помощью
+
+#### ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)    ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) - умею работать на приличном уровне
 
 ---
 
