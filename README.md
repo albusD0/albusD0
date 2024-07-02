@@ -1,6 +1,6 @@
 #### :computer: Нравится Python, сфера IT и все с ними связанное
 ---
-### Прошел курсы:
+### Прошел курсы: :man_student:
 
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Сертификат](https://stepik.org/cert/2491970)
 
@@ -8,7 +8,11 @@
 
 [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
-### Изучаю:
+### Изучаю: 
+
+["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)
+
+[Django Web Framework (Python) - MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) : [Репозиторий (учебный)](https://github.com/albusD0/local_library_mdn_django)
 
 
 #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - продвинутый пользователь
