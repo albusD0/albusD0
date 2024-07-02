@@ -1,13 +1,12 @@
 #### :computer: Нравится Python, сфера IT и все с ними связанное
 ---
-### ЗНАЮ 
+### Прошел курсы:
 
-#### Прошел курсы:
+[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md), по итогам которого получил [сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf)  
+[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453
+)
 
-[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md), по итогам которого получил [сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf) 
-[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model)
-
-### ИЗУЧАЮ:
+### Изучаю:
 
 
 #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - продвинутый пользователь
