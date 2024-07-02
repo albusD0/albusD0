@@ -2,10 +2,11 @@
 ---
 ### Прошел курсы:
 
-[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md), по итогам которого получил [сертификат](https://stepik.org/certificate/fe656505180b70d949366d3f68fc1e3127ae008c.pdf)
+["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Сертификат](https://stepik.org/cert/2491970)
 
-[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453
-)
+[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md) : [Сертификат](https://stepik.org/cert/2355954)
+
+[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
 ### Изучаю:
 
