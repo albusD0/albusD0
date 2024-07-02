@@ -8,8 +8,12 @@
 
 [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
-(https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
-
+<div >
+	<code><img width="48" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="48" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
+	<code><img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
+	<code><img width="48" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
+</div>
 
 ### Изучаю: 
 
@@ -18,6 +22,8 @@
 [Django Web Framework (Python) - MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) : [Репозиторий (учебный)](https://github.com/albusD0/local_library_mdn_django)
 
 [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+
+---
 
 ### Что еще?
 #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - эникейщик со стажем
