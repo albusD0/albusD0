@@ -8,11 +8,16 @@
 
 [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
+(https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+
+
 ### Изучаю: 
 
 ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)
 
 [Django Web Framework (Python) - MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) : [Репозиторий (учебный)](https://github.com/albusD0/local_library_mdn_django)
+
+[Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
 
 ### Что еще?
 #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) - эникейщик со стажем
