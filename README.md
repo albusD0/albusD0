@@ -2,7 +2,7 @@
 ---
 ### Прошел курсы: :man_student:
 
-["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Сертификат](https://stepik.org/cert/2491970)
+["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Мини-проекты к курсу](https://github.com/albusD0/BEEGEEK/tree/main/course_1_for_beginners) : [Сертификат](https://stepik.org/cert/2491970)
 
 [Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md) : [Сертификат](https://stepik.org/cert/2355954)
 
