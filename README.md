@@ -6,7 +6,7 @@
 
 [Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/edit/main/README.md) : [Сертификат](https://stepik.org/cert/2355954)
 
-[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
+[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
 ### Изучаю:
 
