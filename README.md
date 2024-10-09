@@ -19,9 +19,11 @@
 
 ### Изучаю: 
 
-["Поколение Python": курс для продвинутых](https://stepik.org/course/68343)
+[Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336)
 
 [Django Web Framework (Python) - MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) : [Репозиторий (учебный)](https://github.com/albusD0/local_library_mdn_django)
+
+[Django 4 (Добрый, добрый Django)](https://proproprogs.ru/django4) : [Репозиторий (учебный)](https://github.com/albusD0/Kind_Jango)
 
 [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
 
