@@ -2,7 +2,7 @@
 ---
 ### Прошел курсы: :man_student:
 
-[Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336)
+[Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336) : [Сертификат](https://stepik.org/cert/2619402)
 
 [Добрый, добрый Python с Сергеем Балакиревым](https://stepik.org/course/100707/) : [Сертификат](https://stepik.org/cert/2528898)
 
