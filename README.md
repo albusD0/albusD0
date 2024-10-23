@@ -2,6 +2,8 @@
 ---
 ### Прошел курсы: :man_student:
 
+[Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336)
+
 [Добрый, добрый Python с Сергеем Балакиревым](https://stepik.org/course/100707/) : [Сертификат](https://stepik.org/cert/2528898)
 
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Мини-проекты к курсу](https://github.com/albusD0/BEEGEEK/tree/main/course_1_for_beginners) : [Сертификат](https://stepik.org/cert/2491970)
@@ -18,8 +20,6 @@
 </div>
 
 ### Изучаю: 
-
-[Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336)
 
 [Django Web Framework (Python) - MDN WEB DOCS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) : [Репозиторий (учебный)](https://github.com/albusD0/local_library_mdn_django)
 
