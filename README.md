@@ -2,6 +2,14 @@
 ---
 ### Прошел курсы: :man_student:
 
+#### по тестированию:
+
+[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/tree/main) : [Сертификат](https://stepik.org/cert/2355954)
+
+[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
+
+#### по Python:
+
 [Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336) : [Сертификат](https://stepik.org/cert/2619402)
 
 [Добрый, добрый Python с Сергеем Балакиревым](https://stepik.org/course/100707/) : [Сертификат](https://stepik.org/cert/2528898)
@@ -9,10 +17,6 @@
 ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) : [Мини-проекты к курсу](https://github.com/albusD0/BEEGEEK/tree/main/course_1_for_beginners) : [Сертификат](https://stepik.org/cert/2491970)
 
 [Поколение Python": курс для продвинутых](https://stepik.org/course/68343/) : [Сертификат](https://stepik.org/cert/2641986)
-
-[Тестирование ПО с нуля. Теория + Практика](https://github.com/albusD0/Software-Testing-From-Scratch/tree/main) : [Сертификат](https://stepik.org/cert/2355954)
-
-[Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) : [Итоговый проект](https://github.com/albusD0/stepik_auto_tests_course/tree/main/learning_page_object_model) : [Сертификат](https://stepik.org/cert/2505453)
 
 <div >
 	<code><img width="48" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
